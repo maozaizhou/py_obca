@@ -26,4 +26,6 @@ for more detail about the algorithm can be found in this paper [OBCA](http://arx
 
 ![parallel.png](doc/fig/parallel.png)
 
+## Todo
 
+improve initial search speed by different algorithm
